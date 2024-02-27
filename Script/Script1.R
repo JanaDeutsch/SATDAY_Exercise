@@ -35,9 +35,6 @@ dat %>%
   ggplot(aes(x=Subject, y=`LDPlus[s]`)) +
   geom_boxplot()
 
-#Structure of dat---------------------------------------------------------------
-
-str(dat)
 
 
 
